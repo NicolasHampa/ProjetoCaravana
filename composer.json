@@ -1,0 +1,14 @@
+{
+    "name": "CaravanaLudica",
+    "description": "Site para empresa Caravana Ludica de Jogos Tradicionais",
+    "authors": [
+        {
+            "name": "Nicolas Hamparsomian",
+            "email": "nhampa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "kevinlebrun/slug.php": "1.*"
+    }
+}
